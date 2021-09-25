@@ -16,7 +16,7 @@ def tafel(answer):
     negen = 9*answer
     tien = 10*answer
     tafel = str(answer)
-    tafels = print(f"""De tafel van {tafel} is: 
+    print(f"""De tafel van {tafel} is: 
 1x{tafel}={een}
 2x{tafel}={twee}
 3x{tafel}={drie}
